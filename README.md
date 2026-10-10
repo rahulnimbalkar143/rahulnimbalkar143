@@ -10,7 +10,7 @@
 
 <br />
 
-<div align="center">
+
   <img
     src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&pause=1000&color=6366F1&center=true&vCenter=true&width=600&lines=Full+Stack+Developer;MCA+Graduate;Java+%7C+Spring+Boot+%7C+React"
     alt="Typing SVG"
