@@ -105,7 +105,7 @@ I am a passionate **Full Stack Developer** with a Master of Computer Application
 | Project / Link | Tech Stack | Description | Links |
 | :--- | :--- | :--- | :--- |
 | 🌟 **Personal Portfolio** | Next.js, TypeScript, Tailwind CSS | Personal portfolio showcasing my professional background, technical skills, and projects. | [🌐 Live Demo](https://rahulnimbalkar.vercel.app/) · [📁 Repo](https://github.com/rahulnimbalkar143?tab=repositories) |
-| 🤖 **NodeSq AI** | See repository | AI-powered conversation canvas project. | [📁 Repositories](https://github.com/rahulnimbalkar143?tab=repositories) |
+| 🤖 **NodeSq AI** | Next.js, React, TypeScript, React Flow, Redux, Tailwind CSS | AI-powered conversation canvas project. | [📁 Repositories](https://github.com/rahulnimbalkar143?tab=repositories) |
 | 🌾 **Krushee Mart** | React, Node.js, Express.js | Agricultural e-commerce application. | [📁 Repositories](https://github.com/rahulnimbalkar143?tab=repositories) |
 | 📦 **Inventory Management System** | Java, Spring Boot, Spring Security, MySQL | Inventory management application with backend APIs and authentication. | [📁 Repositories](https://github.com/rahulnimbalkar143?tab=repositories) |
 | 📝 **Online Quiz Application** | React, Node.js, Express.js, MySQL | Full-stack quiz application for assessments, scoring, and result management. | [📁 Repositories](https://github.com/rahulnimbalkar143?tab=repositories) |
