@@ -10,8 +10,11 @@
 
 <br />
 
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=20&pause=1000&color=6366F1&center=true&vCenter=true&width=600&lines=Full+Stack+Developer;Java+%7C+Spring+Boot+%7C+React;Building+Real-World+Applications;Always+Learning+and+Building" alt="Typing SVG" />
-
+<div align="center">
+  <img
+    src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&pause=1000&color=6366F1&center=true&vCenter=true&width=600&lines=Full+Stack+Developer;MCA+Graduate;Java+%7C+Spring+Boot+%7C+React"
+    alt="Typing SVG"
+  />
 </div>
 
 ---
@@ -111,9 +114,6 @@ I am a passionate **Full Stack Developer** with a Master of Computer Application
 
 ## 📈 GitHub Statistics
 
----
-
-## 🔥 Contribution Streak
 
 <div align="center">
 
