@@ -91,8 +91,9 @@ I am a passionate **Full Stack Developer** with a Master of Computer Application
 
 ## 🎓 Education
 
-- **Master of Computer Applications (MCA)** — Dr. J.J. Magdum College of Engineering, Jaysingpur.
-- **Bachelor of Computer Applications (BCA)** — Jaysingpur College, Jaysingpur.
+
+- **Master of Computer Applications (MCA)** — Dr. J.J. Magdum College of Engineering, Jaysingpur | **CGPA: 9.57**
+- **Bachelor of Computer Applications (BCA)** — Jaysingpur College, Jaysingpur | **CGPA: 8.17**
 
 ---
 
@@ -109,12 +110,6 @@ I am a passionate **Full Stack Developer** with a Master of Computer Application
 ---
 
 ## 📈 GitHub Statistics
-
-<div align="center">
-
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=rahulnimbalkar143&layout=compact&theme=tokyonight&hide_border=true" alt="Most Used Languages" />
-
-</div>
 
 ---
 
